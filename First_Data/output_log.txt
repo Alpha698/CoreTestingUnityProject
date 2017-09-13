@@ -1,0 +1,29 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M (ID=0x1058)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ты не пройдешь\Desktop\My_game_0.1\First_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.410 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.849019 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ab8 -> priority: 1 
+  Thread -> id: bec -> priority: 1 
